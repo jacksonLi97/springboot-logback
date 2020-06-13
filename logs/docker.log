@@ -1,0 +1,30 @@
+2020-06-13 19:18:09.721 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 55 ] - Starting LogbackApplicationTests on DESKTOP-40N6UUT with PID 7852 (started by Shinelon in D:\lzj\springboot-logback)
+2020-06-13 19:18:09.724 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-06-13 19:18:12.903 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 61 ] - Started LogbackApplicationTests in 4.5 seconds (JVM running for 7.157)
+2020-06-13 19:20:09.107 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 55 ] - Starting LogbackApplicationTests on DESKTOP-40N6UUT with PID 18904 (started by Shinelon in D:\lzj\springboot-logback)
+2020-06-13 19:20:09.111 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-06-13 19:20:12.092 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 61 ] - Started LogbackApplicationTests in 3.7 seconds (JVM running for 5.343)
+2020-06-13 19:21:37.537 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 55 ] - Starting LogbackApplicationTests on DESKTOP-40N6UUT with PID 19436 (started by Shinelon in D:\lzj\springboot-logback)
+2020-06-13 19:21:37.539 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-06-13 19:21:40.727 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 61 ] - Started LogbackApplicationTests in 4.048 seconds (JVM running for 5.639)
+2020-06-13 19:22:43.472 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 55 ] - Starting LogbackApplicationTests on DESKTOP-40N6UUT with PID 16852 (started by Shinelon in D:\lzj\springboot-logback)
+2020-06-13 19:22:43.476 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-06-13 19:22:46.069 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 61 ] - Started LogbackApplicationTests in 3.485 seconds (JVM running for 5.276)
+2020-06-13 19:28:27.305 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 55 ] - Starting LogbackApplicationTests on DESKTOP-40N6UUT with PID 13400 (started by Shinelon in D:\lzj\springboot-logback)
+2020-06-13 19:28:27.307 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-06-13 19:28:31.195 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 61 ] - Started LogbackApplicationTests in 4.82 seconds (JVM running for 6.562)
+2020-06-13 19:51:37.786 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 55 ] - Starting LogbackApplicationTests on DESKTOP-40N6UUT with PID 16668 (started by Shinelon in D:\lzj\springboot-logback)
+2020-06-13 19:51:37.789 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-06-13 19:51:41.831 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 61 ] - Started LogbackApplicationTests in 4.752 seconds (JVM running for 6.227)
+2020-06-13 21:16:28.613 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 55 ] - Starting LogbackApplicationTests on DESKTOP-40N6UUT with PID 12336 (started by Shinelon in D:\lzj\springboot-logback)
+2020-06-13 21:16:28.630 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-06-13 21:16:32.024 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 61 ] - Started LogbackApplicationTests in 4.768 seconds (JVM running for 7.002)
+2020-06-13 21:19:45.262 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 55 ] - Starting LogbackApplicationTests on DESKTOP-40N6UUT with PID 21472 (started by Shinelon in D:\lzj\springboot-logback)
+2020-06-13 21:19:45.264 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-06-13 21:19:51.739 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 61 ] - Started LogbackApplicationTests in 7.442 seconds (JVM running for 9.136)
+2020-06-13 21:33:51.647 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 55 ] - Starting LogbackApplicationTests on DESKTOP-40N6UUT with PID 17552 (started by Shinelon in D:\lzj\springboot-logback)
+2020-06-13 21:33:51.670 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-06-13 21:33:55.373 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 61 ] - Started LogbackApplicationTests in 4.942 seconds (JVM running for 6.638)
+2020-06-13 21:37:48.321 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 55 ] - Starting LogbackApplicationTests on DESKTOP-40N6UUT with PID 19424 (started by Shinelon in D:\lzj\springboot-logback)
+2020-06-13 21:37:48.323 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-06-13 21:37:51.479 [ main ] - [ INFO  ] [ com.springboot.logback.LogbackApplicationTests : 61 ] - Started LogbackApplicationTests in 4.079 seconds (JVM running for 6.03)
